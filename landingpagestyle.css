@@ -1489,3 +1489,7 @@ main {
 	margin-bottom: 0
 }
 }
+.feature-icon img{
+        width:316px;
+	height:316px;
+}
