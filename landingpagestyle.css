@@ -920,11 +920,13 @@ color:#3B404C
 	/*background: #097dea;
 	background: linear-gradient(65deg, #0270D7 0, #0F8AFD 100%);*/
 	background-color:#f1f2f3;
+	color:black;
 }
 .button-primary:hover {
 /* 	background: #0982f4;
 	background: linear-gradient(65deg, #0275e1 0, #198ffd 100%) */
 	background-color:#8d1215;
+	color:white;
 }
 .button-block {
 	display: flex
