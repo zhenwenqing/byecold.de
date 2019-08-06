@@ -892,7 +892,7 @@ color:#3B404C
 	line-height: 16px;
 	text-decoration: none !important;
 	text-transform: uppercase;
-	background-color: #f1f2f3;
+	background-color: #8d1215;
 	color: #fff !important;
 	border: none;
 	border-radius: 2px;
@@ -904,7 +904,7 @@ color:#3B404C
 	white-space: nowrap
 }
 .button:hover {
-	background: #8d1215
+	background: #f13f40;
 }
 .button:active {
 	outline: 0
@@ -919,14 +919,12 @@ color:#3B404C
 .button-primary {
 	/*background: #097dea;
 	background: linear-gradient(65deg, #0270D7 0, #0F8AFD 100%);*/
-	background-color:#f1f2f3;
-	color:black;
+	background-color:#8d1215;
 }
 .button-primary:hover {
 /* 	background: #0982f4;
 	background: linear-gradient(65deg, #0275e1 0, #198ffd 100%) */
-	background-color:#8d1215;
-	color:white;
+	background-color:#f13f40;
 }
 .button-block {
 	display: flex
