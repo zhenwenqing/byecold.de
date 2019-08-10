@@ -15,6 +15,9 @@
 	display: block;
 	margin: 100px auto;
 }
+.byecold_logo img{
+	margin:auto;
+}
 		.email_form{
 			height: 300px;
 			width: 600px;
